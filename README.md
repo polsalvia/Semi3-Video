@@ -32,3 +32,6 @@ Av1
 Definició:
 Font: https://trac.ffmpeg.org/wiki/Encode/AV1
 
+
+
+https://www.javatpoint.com/tkinter-application-to-switch-between-different-page-frames-in-python
