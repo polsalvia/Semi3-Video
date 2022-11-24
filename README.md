@@ -40,5 +40,3 @@ Font utilitzada pel codi: https://trac.ffmpeg.org/wiki/Encode/AV1
 
 #### Programa de conversió
 Pel codi del programa de conversió, ha estat de gran ajuda el codi que es troba en la següent referència: https://www.javatpoint.com/tkinter-application-to-switch-between-different-page-frames-in-python
-
-https://www.javatpoint.com/tkinter-application-to-switch-between-different-page-frames-in-python
