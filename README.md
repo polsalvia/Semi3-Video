@@ -1,13 +1,15 @@
+#Semi 3
 Autor: Pol Salvia Argilés
 Nia: 217698
 
 
-Report
+##Report
 
 En primer lloc, es important tenir en compte, que s’ha retallat el arxiu BBB video a 30 segons, ja que per les conversions per el video BBB sencer, tardaven molt. I l’arxiu que el probrama llegirà sera el BBB_30S.mp4.
 
 En referència al programa, ens les primeres linies es fan els imports, i seguit està definida la funció convert_BBB_video() , que escala el video BBB_30S.mp4 a 720p, 480p, 360x240 i 160x120 i guarda els videos com BBB_720p.mp4, BBB_480p.mp4, BBB_360x240.mp4 i BBB_160x120.mp4 respectivament.
 
+###Programa de conversió
 De cara el programa de conversió, s’ha utilitzat ‘Trikiner’. 
 
 El programa consta de una pantalla principal el la qual el usuari té, l’opció de seleccionar un fitxer a convertir i pot escollir entre els següents: BBB_720p.mp4, BBB_480p.mp4, BBB_360x240.mp4 i BBB_160x120.mp4.
@@ -16,7 +18,7 @@ Un cop selecciona un dels arxius següents, té l’opció d’escollir a quina 
 
 Referències i informació adicional:
 
-Conversió a VP8, només admet senyals de vídeo d'escaneig progressiu amb submostreig de croma 4:2:0 i 8 bits per mostra.
+Conversió a ###VP8###, només admet senyals de vídeo d'escaneig progressiu amb submostreig de croma 4:2:0 i 8 bits per mostra.
 
 Font utilitzada pel codi: https://trac.ffmpeg.org/wiki/Encode/VP8
 
